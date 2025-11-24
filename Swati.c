@@ -42,7 +42,7 @@ void generateInvoice() {
 
     for (int i = 0; i < cart_size; i++) {
         printf("%-5d %-10d %-10.2f\n",
-               cart[i].code, cart[i].qty, cart[i].total);
+            cart[i].code, cart[i].qty, cart[i].total);
         subtotal += cart[i].total;
 
         int idx = findProductIndex(cart[i].code);
