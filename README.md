@@ -1,3 +1,5 @@
+*Note(Please view it in code format instead of preview for better clarity and presentation)
+
 Grocery Management System (C Project)
 ***************************************
 A console-based inventory and billing system written in C, designed for multi-module collaboration.
