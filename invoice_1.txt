@@ -1,0 +1,7 @@
+----------- INVOICE #1 -----------
+Code: 101  Qty: 12  Total: 600.00
+
+Subtotal: 600.00
+Tax: 60.00
+Discount: 30.00
+Final: 630.00
